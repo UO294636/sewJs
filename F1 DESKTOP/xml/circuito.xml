@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE circuito SYSTEM "circuito.dtd">
+
+<circuito>
+    <datos>
+        <nombre>Hungangorin</nombre>
+        <longitud>4.381 km</longitud>
+        <anchura>14 metros</anchura>
+        <fecha>2024-08-04</fecha>
+        <hora>15:00</hora>
+        <vueltas>70</vueltas>
+        <localidad>Mogyoród</localidad>
+        <pais>Hungría</pais>
+    </datos>
+    
+    <referencias>
+        <enlace nombre="Wikipedia Gran Premio de Hungría">https://es.wikipedia.org/wiki/Gran_Premio_de_Hungr%C3%ADa</enlace>
+        <enlace nombre="F1 Hungría">https://www.formula1.com/en/racing/2024/Hungary.html</enlace>
+        <enlace nombre="Análisis Técnico">https://www.motorpasion.com/formula1/gp-de-hungria-de-formula-1-analisis-tecnico-de-hungaroring</enlace>
+    </referencias>
+
+    <fotos>
+        <foto url="imagenHungria1.jpg">Panorama del circuito de Hungría</foto>
+        <foto url="imagenHungria2.jpg">Recta de Meta</foto>
+    </fotos>
+    
+    <videos>
+        <video url="vueltaonboardHungria.mp4">Video del circuito</video>
+    </videos>
+    
+    <coordenadas longitud="19.2407" latitud="47.5975" altitud="104">
+        Coordenadas del centro de la pista en la línea de salida
+    </coordenadas>
+    
+    <tramos>
+        <tramo distancia="0.5 km" sector="1">
+            <coordenadas longitud="19.2400" latitud="47.5980" altitud="104"/>
+        </tramo>
+        <tramo distancia="1.2 km" sector="2">
+            <coordenadas longitud="19.2410" latitud="47.5985" altitud="104"/>
+        </tramo>
+        <tramo distancia="2.0 km" sector="3">
+            <coordenadas longitud="19.2420" latitud="47.5990" altitud="104"/>
+        </tramo>
+    </tramos>
+</circuito>
